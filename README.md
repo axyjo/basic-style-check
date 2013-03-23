@@ -1,1 +1,4 @@
-Checks patches to ensure PSR-2 compatibility.
+Checks patches to ensure valid code style.
+
+
+TODO: PSR-2.
