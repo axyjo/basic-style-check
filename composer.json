@@ -1,6 +1,7 @@
 {
     "require": {
-        "knplabs/github-api": "*"
+        "knplabs/github-api": "*",
+        "squizlabs/php_codesniffer": "dev-master"
     },
     "minimum-stability": "dev"
 }
